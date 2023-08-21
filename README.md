@@ -1,4 +1,10 @@
 ### Hi there 👋
+### THis is Pramod
+![Pramod025's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pramod025&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod025&layout=compact&theme=vision-friendly-dark)](https://github.com/Pramod025/Pramod025)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pramod025&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+
 
 <!--
 **Pramod025/Pramod025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
